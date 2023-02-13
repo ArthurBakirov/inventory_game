@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>apple.jpg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>apple_crunch.wav</file>
+    </qresource>
+</RCC>
